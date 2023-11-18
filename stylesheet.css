@@ -1,0 +1,19 @@
+.child{
+    float:right;
+    color:red;
+}
+p{
+    color:red;
+}
+h1{
+    color:blue;
+}
+h2{
+    color:green;
+}
+.navigation{
+    color:rgb(255,0,0)
+}
+a :hover{
+    color:rgb(255,0,0))
+}
